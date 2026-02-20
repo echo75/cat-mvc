@@ -120,7 +120,7 @@
               <td>{first}</td>
               <td>{last}</td>
               <td><a href="mailto:{email}">{email}</a></td>
-              <td><a href="{token}" target="_self">Click for profile</a></td>
+              <td><a href="/page/{token}" target="_self">Click for profile</a></td>
             </tr>
             {/users}
           </tbody>
