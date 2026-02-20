@@ -12,7 +12,6 @@ $routes = [
     '' => [$class, 'index'],
     'hallo' => [$class, 'hallo'],
     'user' => [$class, 'user'],
-    'page' => [$class, 'page'],
     'bootstrap' => [$class, 'bootstrap'],
     'installation' => [$class, 'installation']
 ];
